@@ -109,6 +109,3 @@ Set a product's stock to 20, then run:
 python scripts/concurrent_stock_test.py <admin_token> <product_id>
 ```
 Expected result: 20 successful, 10 rejected, final stock 0.
-
-## API testing results
-Add your Swagger/Postman screenshots and results table here.
